@@ -1,2 +1,2 @@
-# P5codes
-Processing codes repository
+# G-code generator
+G-code generator for Processing
